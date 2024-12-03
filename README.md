@@ -3,6 +3,7 @@ This repository contains a Golang API that interfaces with the Text Analysis Web
 
 ## Features
 Kana to Kanji Conversion
+
 Furigana 
 
 ### Notice
