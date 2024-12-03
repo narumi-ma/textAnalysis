@@ -2,9 +2,9 @@
 This repository contains a Golang API that interfaces with the Text Analysis WebAPI provided by LINE Yahoo! Japan. https://developer.yahoo.co.jp/webapi/jlp/
 
 ## Features
-Kana to Kanji Conversion
+- Kana to Kanji Conversion
 
-Furigana 
+- Furigana 
 
 ### Notice
 Please follow the User Guide (https://developer.yahoo.co.jp/start/), 
